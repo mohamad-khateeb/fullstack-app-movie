@@ -21,3 +21,19 @@ review page :
 
 
 <img width="1692" height="837" alt="image" src="https://github.com/user-attachments/assets/a7e61d62-c98d-47e6-bd3e-dd1c793b0204" />
+
+
+
+
+technologies : 
+*java
+*springboot
+*react js
+
+*mongo db
+
+
+
+
+
+
